@@ -32,10 +32,10 @@
 <h3>Level 1</h3>
 
 <p align="center">
-  <kbd><img src="https://i.imgur.com/KRMatUC.png" alt="Level 1"></kbd>
+  <kbd><img src="https://i.imgur.com/yWjbGrI.png" alt="Level 1"></kbd>
 </p>
 
-<p>In this level, we introduce the first, most basic mechanics of the game, which are how to walk and jump. In order to move to the next level, the player must move from platforms and get to the gold coin.</p>
+<p>This is what you see  when the game starts. In the top right corner, you have the timer. The timer starts are 4000, and goes down as times goes on. On the top left corner, you have your score. The number on the left of the "/" is how many points you have, and on the right the number of points available. In order to win the game, you must hit all targets but shooting them with your gun.</p>
 
 <h3>Level 2</h3>
 
