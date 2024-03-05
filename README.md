@@ -7,7 +7,7 @@
   <a href="https://www.youtube.com/watch?v=RmglLZSRwH8"><img src="https://img.youtube.com/vi/RmglLZSRwH8/0.jpg" alt="YouTube Demonstration"></a>
 </p>
 
-### [Download the Game Here!](hhttps://drive.google.com/file/d/1q1Awq5xApFeAkaXZF_7ucHGxw7iXkGcL/view?usp=drive_link)
+### [Download the Game Here!](https://drive.google.com/file/d/1q1Awq5xApFeAkaXZF_7ucHGxw7iXkGcL/view?usp=drive_link)
 
 <h2>Description</h2>
 
