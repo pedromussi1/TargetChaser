@@ -4,10 +4,10 @@
 ### [YouTube Demonstration](https://www.youtube.com/watch?v=RmglLZSRwH8)
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=wtw1QMQUFRQ"><img src="https://img.youtube.com/vi/RmglLZSRwH8/0.jpg" alt="YouTube Demonstration"></a>
+  <a href="https://www.youtube.com/watch?v=RmglLZSRwH8"><img src="https://img.youtube.com/vi/RmglLZSRwH8/0.jpg" alt="YouTube Demonstration"></a>
 </p>
 
-### [Play the Game Here!](https://play.unity.com/mg/other/firstperson-3)
+### [Download the Game Here!](hhttps://drive.google.com/file/d/1q1Awq5xApFeAkaXZF_7ucHGxw7iXkGcL/view?usp=drive_link)
 
 <h2>Description</h2>
 
