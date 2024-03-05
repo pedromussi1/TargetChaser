@@ -62,44 +62,14 @@
 
 <p>Another mechanic I added to the game is the ability to pause the game by pressing the "escape" key. This is really useful because it provides the player with the option to "restart", "quit", or "resume" the game without having to wait for the timer to go off.</p>
 
-<h3>Level 5</h3>
+<h3>Particles</h3>
 
 <p align="center">
   <kbd><img src="https://i.imgur.com/RLMFD1t.png" alt="Level 5"></kbd>
 </p>
 
-<p>This level is used as a recap of all the abilities and mechanics introduced in the game so far. By using everything the player learned with levels 1-4, they will be able to move on to the next level.</p>
+<p>A very nice part of the game is how the target gets destroyed. The way that is done is by using the particles tool in Unreal Engine and applying to the target mesh.</p>
 
-<h3>Level 6</h3>
 
-<p align="center">
-  <kbd><img src="https://i.imgur.com/4mwyQXP.png" alt="Level 6"></kbd>
-</p>
-
-<p>This level is similar to a memory card game. By touching each button on the platform, a color will be revealed. The player must match the pairs of colored blocks and complete the puzzle. By doing so, the next level is unlocked.</p>
-
-<h3>Level 7</h3>
-
-<p align="center">
-  <kbd><img src="https://i.imgur.com/Mdney5Y.png" alt="Level 7"></kbd>
-</p>
-
-<p>This level introduces the Shoot Tubes that teleport the player up, down, or forward. In this level it is used as a fun and fast way to travel through the level and collect all the rings. The pplayer only has to be careful not to fall off the platforms.</p>
-
-<h3>Level 8</h3>
-
-<p align="center">
-  <kbd><img src="https://i.imgur.com/Miq0agH.png" alt="Level 8"></kbd>
-</p>
-
-<p>This level is similar to a Simon Color game. A big cube shows a color sequence. The player must click the buttons to match that color sequence. After three turns taht get increasingly difficult, the player completes the level.</p>
-
-<h3>Level 9</h3>
-
-<p align="center">
-  <kbd><img src="https://i.imgur.com/kyygtZ3.png" alt="Level 9"></kbd>
-</p>
-
-<p>This level is a maze. The player must go inside the maze and collect the rings hidden inside the rooms. They must track their progress and fidn their way to all the rings to complete the level.</p>
 
 
