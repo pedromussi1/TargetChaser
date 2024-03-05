@@ -65,7 +65,7 @@
 <h3>Particles</h3>
 
 <p align="center">
-  <kbd><img src="https://i.imgur.com/RLMFD1t.png" alt="Level 5"></kbd>
+  <kbd><img src="https://i.imgur.com/76VPJkc.png" alt="Level 5"></kbd>
 </p>
 
 <p>A very nice part of the game is how the target gets destroyed. The way that is done is by using the particles tool in Unreal Engine and applying to the target mesh.</p>
