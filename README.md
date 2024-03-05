@@ -29,7 +29,7 @@
 
 <h2>Game Walk-through</h2>
 
-<h3>Level 1</h3>
+<h3>Gameplay</h3>
 
 <p align="center">
   <kbd><img src="https://i.imgur.com/yWjbGrI.png" alt="Level 1"></kbd>
@@ -37,7 +37,7 @@
 
 <p>This is what you see  when the game starts. In the top right corner, you have the timer. The timer starts are 4000, and goes down as times goes on. On the top left corner, you have your score. The number on the left of the "/" is how many points you have, and on the right the number of points available. In order to win the game, you must hit all targets but shooting them with your gun.</p>
 
-<h3>Level 2</h3>
+<h3>Losing</h3>
 
 <p align="center">
   <kbd><img src="https://i.imgur.com/KqBzARI.png" alt="Level 2"></kbd>
@@ -45,7 +45,7 @@
 
 <p>If you fail to hit all the targets in time, this window will pop up., indicating you lost. Here you have two options: you can try again by pressing "Restart" and go to the start of the game, or you can press "Quit" to close the application.</p>
 
-<h3>Level 3</h3>
+<h3>Winning</h3>
 
 <p align="center">
   <kbd><img src="https://i.imgur.com/BS1g3Ul.png" alt="Level 3"></kbd>
@@ -54,13 +54,13 @@
 <p>If you are able to hit all the targets in time, you will see this screen, indicating you won! From here you can play the game again to see if you can do it faster, or press "Quit" to close the application.</p>
 
 
-<h3>Level 4</h3>
+<h3>Pausing</h3>
 
 <p align="center">
-  <kbd><img src="https://i.imgur.com/3dfoBgc.png" alt="Level 4"></kbd>
+  <kbd><img src="https://i.imgur.com/SkbwavX.png" alt="Level 4"></kbd>
 </p>
 
-<p>In this level, we introduce the trampoline object, distinguished with a bright green color. By touching object with this green color, the player will be propelled upwards, thus being able to make higher jumps.</p>
+<p>Another mechanic I added to the game is the ability to pause the game by pressing the "escape" key. This is really useful because it provides the player with the option to "restart", "quit", or "resume" the game without having to wait for the timer to go off.</p>
 
 <h3>Level 5</h3>
 
