@@ -48,10 +48,10 @@
 <h3>Level 3</h3>
 
 <p align="center">
-  <kbd><img src="https://i.imgur.com/AGIusI8.png" alt="Level 3"></kbd>
+  <kbd><img src="https://i.imgur.com/BS1g3Ul.png" alt="Level 3"></kbd>
 </p>
 
-<p>In this level, we introduce the concept of crouching, with the idea that by using the crouching mechanism, the player can go past obstacles they would not be able to if they were standing up. By using that mechanic correctly, the player gets to move to the next level.</p>
+<p>If you are able to hit all the targets in time, you will see this screen, indicating you won! From here you can play the game again to see if you can do it faster, or press "Quit" to close the application.</p>
 
 
 <h3>Level 4</h3>
