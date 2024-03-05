@@ -40,10 +40,10 @@
 <h3>Level 2</h3>
 
 <p align="center">
-  <kbd><img src="https://i.imgur.com/ZCM5RN7.png" alt="Level 2"></kbd>
+  <kbd><img src="https://i.imgur.com/KqBzARI.png" alt="Level 2"></kbd>
 </p>
 
-<p>In this level, we introduce the concept of sprinting, with the idea that by using the sprint mechanism, the player can move faster and thus make longer jumps. The player must master the sprinting mechanic in order to move on to the next level.</p>
+<p>If you fail to hit all the targets in time, this window will pop up., indicating you lost. Here you have two options: you can try again by pressing "Restart" and go to the start of the game, or you can press "Quit" to close the application.</p>
 
 <h3>Level 3</h3>
 
