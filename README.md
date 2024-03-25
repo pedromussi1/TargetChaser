@@ -11,7 +11,7 @@
 
 <h2>Description</h2>
 
-<p>This is a three-dimensional puzzle game based on increased levels of mechanics and difficulty as the player progresses, acquiring new skills and following tips will help the player move to the next level. This game was developed on Unity3D along with Blender for modelling required assets. It includes tips for helping the player move to the next level and introduces innovative mechanics not usually seen on games of this caliber such as trampoline, shoot tube, Simon color game, and memory card game. All assets and ideas portrayed in this game are my own, no outside sources were used.</p>
+<p>Hit all targets around the island before the timer goes off! This game was developed on Unreal Engine 5, and it takes inspiration from this YouTube video made by Unreal Sensei: https://www.youtube.com/watch?v=1XjgLKrb4_M. However, it does build on it tremendously, while also using a different environment. The environment used on this game is called "Low Poly Style Deluxe 2: Tropical Environment" by WolfDigitalLLC.</p>
 
 <h2>Languages and Utilities Used</h2>
 
